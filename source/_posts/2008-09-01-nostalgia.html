@@ -1,0 +1,36 @@
+---
+layout: post
+title: "nostalgia"
+comments: true
+---
+<p>
+anoche en un rato de aburrimiento me agarro un ataque de nostalgia, seguramente porque justo habia terminado de trabajar y estaba acomodando fotos viejas. Muy viejas. Asi que agarre y aprovechando que tengo instalado linq2memory, ejecute el siguiente c&oacute;digo en uno de mis procesadores:
+</p>
+<!-- code formatted by http://manoli.net/csharpformat/ -->
+<div class="csharpcode">
+<pre class="alt">
+<span class="lnum">   1:  </span>Contact&lt;Human&gt; humanContact = <span class="kwrd">this</span>.memory.Humans
+</pre>
+<pre>
+<span class="lnum">   2:  </span>    .Where(hc =&gt; hc.SpatialGroup.Contains(<span class="kwrd">new</span> Guid(<span class="str">&quot;75EEE4A3-E52A-4956-9C00-C34DF63D9AE6&quot;</span>) <span class="rem">/*primaria, amigos cercanos*/</span>) &amp; hc.Designations.Lenght &gt; 1)
+</pre>
+<pre class="alt">
+<span class="lnum">   3:  </span>    .OrderBy(hc =&gt; hc.Designations[0]) <span class="rem">/*primer nombre*/</span>
+</pre>
+<pre>
+<span class="lnum">   4:  </span>    .FirstOrDefault(); 
+</pre>
+</div>
+<p>
+me sorprendi&oacute; que humanContact termino siendo una instancia valida. Pod&iacute;a recordar nombre y apellido de uno de mis compa&ntilde;eros de primaria. Asi que con esa informaci&oacute;n, agarre y dije... o LinkedIn o Facebook. La primera opci&oacute;n era muy formal, asi que opte por Facebook. Y una nueva sorpresa... lo encontr&eacute;. Compare la cara que veia en el monitor con la que tenia en la mano, con el delantal azul del jard&iacute;n y era la misma persona. En realidad, ahora era una persona, 17 a&ntilde;os despu&eacute;s. Sorprendentemente tiene un perfil publico, asi que entre a ver la lista de amigos y me encontr&eacute; con la grata sorpresa de ver unos cuantos mas, esparcidos por aqu&iacute; y por alla.
+</p>
+<p>
+Asi que reflexione un segundo despu&eacute;s de darme cuenta que estaba feliz de encontrarlos. Me pregunte cual seria la reaccion que tendr&iacute;an si los agregaba a la lista, si actualizaba el SpatialGroup con una nueva referencia, &#39;0D730FAA-69C8-4581-AF83-55DFEF3D1ECC&#39; (Internet). Concluyendo en que la reaccion seria positiva, proced&iacute; al &quot;Add as Friend&quot;. Y no me equivoque.
+</p>
+<p>
+&quot;Should auld acquaintance be forgot, and never brought to min&#39;?&quot;<br />
+<em> - <a href="http://es.wikipedia.org/wiki/Robert_Burns">Robert Burns</a></em>
+</p>
+<p>
+vivo en esta industria, pero a veces me sorprendo de las cosas que puedo encontrar en internet... 
+</p>

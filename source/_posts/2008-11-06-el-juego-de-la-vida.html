@@ -1,0 +1,43 @@
+---
+layout: post
+title: "el juego de la vida"
+comments: true
+---
+<p>
+Como todo, la vida (la vida, lo vivo) puede ser analizada desde muchos puntos de vista. A mi me gusta la definici&oacute;n f&iacute;sica, que trata la vida como sistemas que reducen su entrop&iacute;a interna, tomando substancias del entorno y luego expuls&aacute;ndolas con un estado de degradaci&oacute;n. Aunque el punto de vista mas interesante de analizar es sin duda el filos&oacute;fico.
+</p>
+<div style="text-align: center">
+<a href="http://en.wikipedia.org/wiki/Gun_(cellular_automaton)"><img src="http://media.oldben.com.ar/Gospers_glider_gun.gif" alt="" /></a>
+</div>
+<p>
+&nbsp;
+</p>
+<p>
+Pero la vida tambi&eacute;n puede ser tratada como un desaf&iacute;o algor&iacute;tmico. En 1970, el matem&aacute;tico Brit&aacute;nico <a href="http://en.wikipedia.org/wiki/John_Horton_Conway">John Horton Conway</a> desarrollo lo que seria luego conocido como el modelo mas simple de <a href="http://en.wikipedia.org/wiki/Cellular_automaton">Automatas Celulares</a>, expandiendo el trabajo previo de <a href="http://es.wikipedia.org/wiki/John_von_Neumann">John von Neumann</a> sobre la l&oacute;gica aplicada a sistemas discretos. El Juego de la Vida.
+</p>
+<blockquote>
+	<p>
+	Joshua, tic-tac-toe, zero players. - Dr. Stephen Falken (<a href="http://www.microsiervos.com/archivo/peliculas-tv/juegos-de-guerra.html">War Games</a>, 1983)
+	</p>
+</blockquote>
+<p>
+El Juego de la Vida de Conway es lo que en teor&iacute;a de juegos se llama &quot;Juego de Cero Jugadores&quot;, donde el sistema evoluciona en base a un estado inicial. E incluso podr&iacute;a no tener ning&uacute;n tipo de interacci&oacute;n humana. El &quot;tablero&quot; de juego es una grilla compuestas por celdas ortogonales (si, cuadraditos) de extensi&oacute;n infinita. Estas celdas pueden tener 2 estados: vivas o muertas. Y el estado de una celda es definido por el estado del entorno en un momento de tiempo t-1 y todos los cambios de estado ocurren simult&aacute;neamente en un momento dado de tiempo (t).
+</p>
+<p>
+Y las reglas por las que se rije son extremamente simples:
+</p>
+<ol>
+	<li>Cada celta interact&uacute;a con un m&aacute;ximo de 8 celdas.</li>
+	<li>Una celda viva solo sigue en ese estado si tiene 2 o 3 celdas vivas a su alrededor. En otro caso muere (por soledad o superpoblacion).</li>
+	<li>Una celda nace cuando tiene 3 celdas vivas a su alrededor.</li>
+</ol>
+<br />
+<p>
+Con esas simples reglas se generan sistemas evolutivos y autoregulados y con la capacidad te&oacute;rica de funcionar como una <a href="http://en.wikipedia.org/wiki/Universal_Turing_machine">Maquina Universal de Turing</a>. Se crean y se destruyen patrones est&aacute;ticos, oscilantes o que se trasladan por el tablero. Como dato curioso, <a href="http://en.wikipedia.org/wiki/Hacker_Emblem">Emblema Hacker</a> esta basado en uno de los patrones emergentes de este modelo.
+</p>
+<p>
+Ahora, si soportaron hasta, tienen premio. porque hoy, via <a href="http://caferecienmolido.blogspot.com/">Damian</a> (via <a href="http://www.microsiervos.com/archivo/juegos-y-diversion/the-irregulargame-of-life.html">Microsiervos</a>), me encuentro con esta hermosa implementaci&oacute;n del juego de la vida en formato de juego con desafios. Con un par de toques nerd y bastante adictiva. Hagan click en la captura que les dejo aqui mismo.
+</p>
+<div style="text-align: center">
+<a href="http://www.irregulargames.com/irregulargame-of-life/"><img src="http://media.oldben.com.ar/theGameOfLife-small.gif" alt="" /></a>
+</div>

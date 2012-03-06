@@ -1,16 +1,478 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-03-06T16:27:05-03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Old Ben]]></title>
+  <link href="http://oldben.com.ar/atom.xml" rel="self"/>
+  <link href="http://oldben.com.ar/"/>
+  <updated>2012-03-06T16:35:59-03:00</updated>
+  <id>http://oldben.com.ar/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rodrigo "Obi-Wan" Iloro]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[entrepreneurs]]></title>
+    <link href="http://oldben.com.ar/blog/2011/11/15/entrepreneurs/"/>
+    <updated>2011-11-15T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2011/11/15/entrepreneurs</id>
+    <content type="html"><![CDATA[<blockquote><p>I hate it when people call themselves &#8220;entrepreneurs&#8221; when what they&#8217;re really trying to do is launch a startup and then sell or go public, so they can cash in and move on. They&#8217;re unwilling to do the work it takes to build a real company, which is the hardest work in business. That&#8217;s how you really make a contribution and add to the legacy of those who went before.</p><footer><strong>Walter Isaacson</strong> <cite>Steve Jobs by Walter Isaacson</cite></footer></blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[mudado y migrado]]></title>
+    <link href="http://oldben.com.ar/blog/2011/11/14/mudado-y-migrado/"/>
+    <updated>2011-11-14T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2011/11/14/mudado-y-migrado</id>
+    <content type="html"><![CDATA[<p>ahora que estoy mudado a <a href="http://appharbor.com">appharbor.com</a> y migrado a <a href="http://orchardproject.net">Orchard</a> tal vez me cope y retome el blog&#8230; tengo que ver con que nomas&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[good things come to those who wait]]></title>
+    <link href="http://oldben.com.ar/blog/2010/12/15/good-things-come-to-those-who-wait/"/>
+    <updated>2010-12-15T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2010/12/15/good-things-come-to-those-who-wait</id>
+    <content type="html"><![CDATA[<div style="text-align: center"><img src="http://media.oldben.com.ar/tron-legacy/tron.jpg" alt="TRON" /></div><div style="text-align: center"><img src="http://media.oldben.com.ar/tron-legacy/tron-legacy.jpg" alt="TRON: Legacy" /></div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[fiestas]]></title>
+    <link href="http://oldben.com.ar/blog/2009/12/24/fiestas/"/>
+    <updated>2009-12-24T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/12/24/fiestas</id>
+    <content type="html"><![CDATA[<p>
+Mas o menos por la &eacute;poca la Navidad, Hanukkah o Kwanzaa, los Pastafarios celebramos unas fiestas vagamente definidas llamadas, simplemente, &quot;Fiestas&quot;. Las Fiestas no ocurren en una fecha determinada, si no mas bien durante la temporada de fiestas. Y como los Pastafarios rechazamos el dogma y los formalismos, las Fiestas se pueden celebrar de la forma a la que uno mejor le parezca.
+</p>
+<p>
+El uso de &quot;Felices Fiestas&quot; en lugar de otros saludos mas formales o espec&iacute;ficos, como por ejemplo &quot;Feliz Navidad&quot;, es claramente un mensaje de apoyo al Pastafarismo.
+</p>
+<p>
+Felices Fiestas, y que su Grandiosidad Tallerinesca los toque con tu Gran Tent&aacute;culo. 
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[bag check]]></title>
+    <link href="http://oldben.com.ar/blog/2009/12/22/bag-check/"/>
+    <updated>2009-12-22T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/12/22/bag-check</id>
+    <content type="html"><![CDATA[<p>
+Durante mi estad&iacute;a en los Estados Unidos, me subi varias veces a un avi&oacute;n. Tres veces para ser precisos, durante un mes. Y realmente subirse a un avi&oacute;n dentro del territorio de los Estados Unidos es una molestia. La documentaci&oacute;n de viaje se verifica dos veces, antes de que puedas pasar por el scanner, siempre por un guardia que ni hola te dice.
+</p>
+<p>
+El scanner&#8230; Ordenadas frente a la cinta transportadora del scanner hay varias pilas de bandejas de pl&aacute;stico. Las notebooks tienen que ir en una bandeja. Los electr&oacute;nicos en otra. La ropa en otra. Los l&iacute;quidos, dentro de un ziplock en una bandeja. Los zapatos no, a ver si se ensucian&#8230; En el ultimo viaje, tuve que usar cuatro bandejas para pasar todas las porquer&iacute;as que tenia encima. Asi que despu&eacute;s de desnudarte, tenes que pasar por el detector de metales. Y no te olvides monedas en el bolsillo, o un pa&ntilde;uelo en el cuello porqu ete hacen ir y agarrar otra bandeja para pasar las cosas.
+</p>
+<p>
+Y cuando llegas al otro lado, de nuevo a vestirte y a armar el equipaje de mano que tuviste que desarmar. Y lo peor es que los guardias te apuran porque es un cuello de botella en el flujo de la gente hacia los aviones.
+</p>
+<p>
+No podes subir con un clip al avi&oacute;n, pero con la cena te dan cuchillos de metal. DE METAL! Lo que me recuerda a MacGyver: &quot;la bolsa no es para lo que llevo, si no para lo que encuentre en el camino&quot;. Un avi&oacute;n se podr&iacute;a secuestrar con el cuchillo de la cena y una bater&iacute;a de notebook.
+</p>
+<p>
+Trust no one&#8230; 
+</p>
+<p>
+&nbsp;
+</p>
+<div style="text-align: center">
+<img src="http://imgs.xkcd.com/comics/bag_check.png" alt="" />
+</div>
+<p>
+&nbsp;
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[morning lyrics]]></title>
+    <link href="http://oldben.com.ar/blog/2009/12/12/20091211-morning-lyrics/"/>
+    <updated>2009-12-12T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/12/12/20091211-morning-lyrics</id>
+    <content type="html"><![CDATA[<blockquote>
+	In the stillness of the evening<br />
+	When the sun has had its day<br />
+	I heard your voice a-whispering<br />
+	Come away child<br />
+	<br />
+	New York, New York 
+</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[I want you!]]></title>
+    <link href="http://oldben.com.ar/blog/2009/12/06/i-want-you%21/"/>
+    <updated>2009-12-06T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/12/06/i-want-you!</id>
+    <content type="html"><![CDATA[<p>
+Una de las primeras cosas que me sorprendi&oacute; de Broadway y Times Square fue que en un espacio amplio y prominente se encuentre un centro de reclutamiento de las Fuerzas Armadas de los Estados Unidos. Asi como si nada, entre el Hard Rock, el McDonalds y el restaurante de Bubba Gump Shrimp Co se encuentra otra joya de la cultura norteamericana.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/NY2009/IMG_0425-Web.jpg" alt="" />
+</div>
+<p>
+Uno va caminando, tranquilo, pensando si vale la pena sacarse una foto al estilo <a href="http://www.bobos.it/wp-content/uploads/2009/07/hironakamura.jpg">Hiro Nakamura</a> o ya esta muy quemado (BTW, vi a mas de uno haci&eacute;ndolo), y pensando porque aun no se cruzo ni con los Ghostbusters, ni con Spiderman ni con <a href="http://en.wikipedia.org/wiki/Niki_Sanders">Niki Sanders</a>&#8230; y se encuentra con eso. 
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/NY2009/IMG_0430-Web.jpg" alt="" />
+</div>
+<p>
+Y es muy interesante mirarlo un poco desde otro punto de vista. En Argentina la historia con las fuerzas armadas es tr&aacute;gica, y a nadie se le ocurrir&iacute;a poner un coso asi en florida y corrientes. Pero en USA tuvieron 200 a&ntilde;os de democracia sin interrupciones, y las fuerzas armadas fueron usadas al mejor estilo &quot;1984&quot; para crear las condiciones en las que vive la sociedad norteamericana actual. Es imposible no relacionar a este pa&iacute;s con alg&uacute;n conflicto b&eacute;lico, o mas inocentemente, con alguna pel&iacute;cula de tiros. 
+</p>
+<p>
+La curiosidad el centro de reclutamiento paso un poco de largo, ya que todos los dias paso por Time Squeare de camino a la oficina que esta a dos cuadras sobre Broadway. Otra de las causas de que la foto a lo Nakamura sea innecesaria. Pero una tarde se me ocurri&oacute; ir al cine, a ver una de ninjas y me encontr&eacute; con que, entre las publicidades de chocolares, medicamentos y vendedores de real state te pasan este video con dos minutos y medio de puro patriotismo.
+</p>
+<object width="480" height="295">
+	<param name="movie" value="http://www.youtube.com/v/s-uPgIQFTNY&amp;hl=en_US&amp;fs=1&amp;">
+	</param>
+	<param name="allowFullScreen" value="true">
+	</param>
+	<param name="allowscriptaccess" value="always">
+	</param>
+	<embed type="application/x-shockwave-flash" width="480" height="295" src="http://www.youtube.com/v/s-uPgIQFTNY&amp;hl=en_US&amp;fs=1&amp;"></embed>
+</object>
+<p>
+A primera vista me pareci&oacute; a propaganda de r&eacute;gimen totalitario. Y me record&oacute; a los v&iacute;deos de publicidad ficticia de &quot;<a href="http://www.imdb.com/title/tt0120201/">Starship Troopers</a>&quot;.
+</p>
+<object width="480" height="385">
+	<param name="movie" value="http://www.youtube.com/v/x7-PQIuWwLo&amp;hl=en_US&amp;fs=1&amp;">
+	</param>
+	<param name="allowFullScreen" value="true">
+	</param>
+	<param name="allowscriptaccess" value="always">
+	</param>
+	<embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/x7-PQIuWwLo&amp;hl=en_US&amp;fs=1&amp;"></embed>
+</object>
+<p>
+Y mientras en los cines pasan publicidades financiadas por las fueras armadas, en las calles te podes encontrar con publicidades de sitios como el de <a href="http://www.uso.org/">USO</a>, que se encargan de canalizar donaciones de la gente para los soldados que estan dispersos por el mundo&#8230;
+</p>
+<p>
+&quot;Thanks for our freedom&quot;&#8230; 
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[san francisco et al]]></title>
+    <link href="http://oldben.com.ar/blog/2009/11/22/san-francisco-et-al/"/>
+    <updated>2009-11-22T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/11/22/san-francisco-et-al</id>
+    <content type="html"><![CDATA[<p>
+El segundo dia comenz&oacute; con la neblina de SF. Mist all over the place. Pero como el plan del dia era alejarnos de SF hacia el norte realmente no me preocupe. Y hasta le clima se parece a la patagonia, porque cuando llegamos a nuestro destino en las monta&ntilde;as ya habia salido el sol.
+</p>
+<p>
+Pero arrancamos con la foto de turista que todos tienen que tener cuando visitan SF, foto que fue tomada en contra de mi voluntad porque realmente no me gustan las fotos t&iacute;picas. 
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0203-Web.jpg" alt="" />
+</div>
+<p>
+Continuamos hacia el norte hasta que llegamos a &quot;<a href="http://www.mtnhomeinn.com/home.html">The Mountain Home Inn</a>&quot;, donde mis queridos Julia y Roberto celebraron su matrimonio. Si San Francisco es Bariloche, todo lo que hay al norte cruzando el Golden Gate es La Angostura. Asi que comenzamos el recorrido por el Mt Tamalpais State Park dirigi&eacute;ndonos a Muir Woods. 
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0217-Web.jpg" alt="" />
+</div>
+<p>
+Que es un monumento dedicado a al California Redwood. Asi que caminamos por una hora y media en ese hermoso redwood forest, muy bien mantenido y se&ntilde;alizado. Realmente una caminata muy relajante en medio de un bosque cuidado y respetado. 
+</p>
+<p>
+Y pudimos llegar justo a horario a Muir Beach para ver un atardecer en el Oc&eacute;ano Pacifico.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0266-Web.jpg" alt="" />
+</div>
+<p>
+Luego salimos para Sausalito a tomar un cafe y pasear por las galer&iacute;as de arte de la zona comercial. Un lugar realmente encantador. 
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0358-Web.jpg" alt="" />
+</div>
+<p>
+Ademas de poder disfrutar de una vista impresionante de la bahia y el Bay Bridge que conecta San Francisco con Oakland.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0341-Web.jpg" alt="" />
+</div>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0372-Web.jpg" alt="" />
+</div>
+<p>
+Terminamos cenando al horario local (como a las 7 de la tarde) en la calle Castro.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0387-Web.jpg" alt="" />
+</div>
+<p>
+Definitivamente San Francisco y alrrededores es un gran lugar para visitar o para vivir. Es una version mejorada en infraestructura de las ciudades principales de la patagonia sin las complicaciones de la nieve.
+</p>
+<p>
+Bueno, si me disculpan, I have a plane to catch&#8230; y empezar a planificar el pr&oacute;ximo viaje a San Francisco&#8230;
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[san francisco, dia 1]]></title>
+    <link href="http://oldben.com.ar/blog/2009/11/22/san-francisco-dia-1/"/>
+    <updated>2009-11-22T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/11/22/san-francisco-dia-1</id>
+    <content type="html"><![CDATA[<p>
+Finalmente llego el primer fin de semana de mi viaje a los Estados Unidos y ejecute el plan largamente planificado de ir hasta San Francisco a hacer un delivery de Havanna. Y de conocer nuevos viejos amigos.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_9967-Web.jpg" alt="" />
+</div>
+<p>
+La primera impresion de San Francisco la tuve directamente desde el avion, desde donde ya se veian las casas en las colinas entre los arboles. San Francisco se ve verde. Los segundo fue el olor. Todas las ciudades tienen su olor caracter&iacute;stico, y para mi San Francisco huele apino y eucalipto. Huele a verde. Es una ciudad donde de noche, se puede ver el cielo estrellado.Me record&oacute; much&iacute;simo a la patagonia.
+</p>
+<p>
+Pero es una ciudad que tiene un puerto muy transitado, por lo que tiene contrastes interesantes. Este este viaje rel&aacute;mpago de dos dias, ayer me toco conocer la ciudad. Y hoy iremos a los alrededores, a recorrer el Mt. Tamalpais State Park.
+</p>
+<p>
+Pero tenia una mision en San Francisco, que era encontrar los &quot;<a href="http://www.youtube.com/watch?v=MdSJFrhb-HM">nuclear wessels</a>&quot;, que en algun lado lei que estaban en <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=alameda&amp;sll=40.714269,-74.005973&amp;sspn=0.510051,1.352692&amp;ie=UTF8&amp;hq=&amp;hnear=Alameda,+California&amp;ll=37.760944,-122.280579&amp;spn=0.265993,0.676346&amp;t=h&amp;z=11">Alameda</a>.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0088-Web.jpg" alt="" />
+</div>
+<p>
+Pero esto fue lo mejor que pudimos encontrar en Pier 39. 
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0132-Web.jpg" alt="" />
+</div>
+<p>
+Pero SF es una ciudad rara. En NY los Homeless tiene una asociaci&oacute;n y los que piden monedas, estan hasta bien vestidos. Aca es como en Argentina. Estan a simple vista, se suben con vos al colectivo y te podes cruzar con gente que te das cuenta que tiene el cerebro quemado por el crack.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0064-Web.jpg" alt="" />
+</div>
+<p>
+Pero tambi&eacute;n derrepente podes estar en la entrada de un restaurante esperando para entrar y de la nada aparece una caravana de bicicletas con luces y m&uacute;sica disco.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/SFO2009/IMG_0172-Web.jpg" alt="" />
+</div>
+<p>
+Definitivamente SF es un lugar donde tranquilamente me podr&iacute;a quedar a vivir.
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[problemas de tamaño]]></title>
+    <link href="http://oldben.com.ar/blog/2009/11/17/problemas-de-tamano/"/>
+    <updated>2009-11-17T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/11/17/problemas-de-tamano</id>
+    <content type="html"><![CDATA[<div style="text-align: center"><img src="http://media.oldben.com.ar/NY2009/IMG00297-20091115-1116-Web.jpg" alt="" /></div>
+<p>Estados Unidos tiene un problema de tama&ntilde;o. Todo lo que es publico es grande hasta donde se pueda. Los autos son grandes, los recibidores son grandes, las calles son grandes, los edificios son grandes. El aeropuerto JFK es tan grande que hasta tiene un tren que conecta las terminales. UN TREN!</p>
+<div style="text-align: center"><img src="http://media.oldben.com.ar/NY2009/IMG00296-20091115-1102-Web.jpg" alt="" /></div>
+<p>Yo que soy amante de lo minimimalista y lo simple, encuentro divertido como una sociedad de consumo empuja los limites de lo cotidiano.</p>
+<p>Eso si, los tipos no tienen bidet. So uncivilized!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[welcome to the united states]]></title>
+    <link href="http://oldben.com.ar/blog/2009/11/15/welcome-to-the-united-states/"/>
+    <updated>2009-11-15T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/11/15/welcome-to-the-united-states</id>
+    <content type="html"><![CDATA[<p>
+Que fin de semana. El sabado me subi a las 3 de la tarde a un avion, y aterrice a las 10 de la ma&ntilde;ana del dia siguiente en mi destino, New York. 19 horas de viaje, haciendo una parada de dos horas en Santiago de Chile, otra de una hora en Lima. Hice dos cambios de avi&oacute;n. Lo &uacute;nico bueno es que el sistema de entretenimiento del avion tenia &quot;Office Space&quot; para ver. Peliculon.
+</p>
+<p>
+El aeropuerto de Lima no lo conoc&iacute;. Elegi quedarme la media hora que nos dieron entre landing y boarding en el avi&oacute;n. Y al quedarme, mi equipaje no fue chequeado para satisfacer la paranoia Yankie, asi que tranquilamente podr&iacute;a haber entrado con 10 kilos de dulce de leche!
+</p>
+<p>
+Pero si tuve el placer de pasar unas dos horas en Santiago de Chile mirando el paisaje de la ciudad, con los Andes de fondo. Casi pido el papel de migraciones para quedarme. Y verifique que el cafe de Starbucks tiene el mismo sabor en todos lados.
+</p>
+<p>
+Igual, aun no me tome un cafe en NY.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/new-york-indiana.jpg" alt="" />
+</div>
+<p>
+Dormir en clase econ&oacute;mica no esta bueno, asi que el dia que tenga mi empresa todos los vuelos van a ser en business. Yo en lo personal quede destruido, asi que lo primero que hice cuando llegue a los Estados Unidos de America fue dormir.
+</p>
+<p>
+Y hablando de la llegada. Mi recomendaci&oacute;n personal es que si pueden elegir la fila en la que formarse, fijense que no sea una mujer. Imaginense que a las 8 de la ma&ntilde;ana de un domingo, el unico vuelo, por el periodo de una hora y media en la Terminal 4 de JFK fue el mio. Habia como un oficial de migraciones cuando se armo la fila, y despu&eacute;s se fueron abriendo mas cabinas. Se armaron filas y yo quede con una mina que era una hija de puta, o no tenia ganas de trabajar. Cuando yo le estaba presentando el decimoquinto papel, ya no quedaba nadie de mi vuelo. Fui uno de los primeros en entrar a las cabinas, pero uno de los ultimos en salir. Mientras la mina me preguntaba que mas tenia impreso para mostrarle, el oficial de al lado sellaba pasaportes a lo loco.
+</p>
+<p>
+Yo ya me imaginaba que me mandaban de vuelta, pero parece que como realmente no tenia motivos para evitarlo (y ya no quedaba mas gente para entrevistar) me dejo pasar.
+</p>
+<p>
+Asi que ya puedo certificar que lo peor del proceso de viajar a los estados unidos es pasar por esas cabinas, donde ya entras bajo presunci&oacute;n de culpabilidad. La mina me pidio hasta los papeles que llevaba impresos con los numeros de tel&eacute;fono de los contactos por emergencia! Y cuando me devolvi&oacute; el pasaporte ni me dio la bienvenida como en las pel&iacute;culas&#8230; 
+</p>
+<p>
+Pero una vez pasada la cabina de migraciones, todos son muy alegres, respetuosos y patriotas, porque la propina no es gratis&#8230;
+</p>
+<p>
+Welcome to The United States of America.
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[morning lyrics]]></title>
+    <link href="http://oldben.com.ar/blog/2009/11/15/20091115-morning-lyrics/"/>
+    <updated>2009-11-15T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/11/15/20091115-morning-lyrics</id>
+    <content type="html"><![CDATA[<blockquote>
+	These vagabond shoes<br />
+	They are longing to stray<br />
+	Right through the very heart of it<br />
+	New York, New York 
+</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[morning lyrics]]></title>
+    <link href="http://oldben.com.ar/blog/2009/11/13/20091113-morning-lyrics/"/>
+    <updated>2009-11-13T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/11/13/20091113-morning-lyrics</id>
+    <content type="html"><![CDATA[<blockquote>		She packed my bags<br />		Last night<br />		Pre-flight<br />		Zero hour&#8230; nine a.m.<br />		And I&#39;m gonna be&#8230; higggggghhhhh&#8230;<br />		as a kite by then&#8230;</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[morning lyrics]]></title>
+    <link href="http://oldben.com.ar/blog/2009/11/07/20091107-morning-lyrics/"/>
+    <updated>2009-11-07T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/11/07/20091107-morning-lyrics</id>
+    <content type="html"><![CDATA[<blockquote>
+	You don&rsquo;t know how beautiful<br />
+	You don&rsquo;t know how beautiful you are<br />
+	You don&rsquo;t know, and you don&rsquo;t get it, do you?<br />
+	You don&rsquo;t know how beautiful you are 
+</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[#barcampba 2009]]></title>
+    <link href="http://oldben.com.ar/blog/2009/11/06/barcamp-2009/"/>
+    <updated>2009-11-06T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/11/06/barcamp-2009</id>
+    <content type="html"><![CDATA[<p align="center">
+<img src="http://media.oldben.com.ar/barcamp2009/IMG_9827-Web.jpg" alt="" />
+</p>
+<p align="center">
+<img src="http://media.oldben.com.ar/barcamp2009/IMG_9865-Web.jpg" alt="" />
+</p>
+<p align="center">
+<img src="http://media.oldben.com.ar/barcamp2009/IMG_9893-Web.jpg" alt="" />
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[waka waka]]></title>
+    <link href="http://oldben.com.ar/blog/2009/10/30/waka-waka/"/>
+    <updated>2009-10-30T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/10/30/waka-waka</id>
+    <content type="html"><![CDATA[<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://media.oldben.com.ar/DSCN1530-Web.jpg" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[los 8 condimentos #gospelfriday]]></title>
+    <link href="http://oldben.com.ar/blog/2009/08/28/los-8-condimentos-gospelfriday/"/>
+    <updated>2009-08-28T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/08/28/los-8-condimentos-gospelfriday</id>
+    <content type="html"><![CDATA[<p>
+Lamentablemente, los 8 condimentos de su <a href="http://es.wikipedia.org/wiki/Monstruo_de_Espagueti_Volador">Grandiosidad Tallarinesca</a> son muy largos para <a href="http://search.twitter.com/search?q=%23gospelfriday">twitter</a> (pero no para tablas de piedra), asi que paso a publicarlos en forma en su forma completa:
+</p>
+<ol>
+	<li>Realmente preferir&iacute;a que no actuases como un imb&eacute;cil que se cree mejor que los dem&aacute;s cuando describas mi Tallarinesca Santidad. Si algunos no creen en m&iacute;, no pasa nada. En serio, no soy tan vanidoso. Adem&aacute;s esto no es acerca de ellos as&iacute; que no cambies de tema.</li>
+	<li>Realmente preferir&iacute;a que no usases mi existencia como un medio para
+	oprimir, subyugar, castigar, eviscerar, o&#8230; ya sabes, ser malo con
+	otros. Yo no requiero sacrificios, y la pureza es para el agua potable,
+	no para la gente.</li>
+	<li>Realmente preferir&iacute;a que no juzgases a las personas por su aspecto,
+	o c&oacute;mo visten, o la manera en que hablan, o&#8230; mira, solo s&eacute; bueno. Ah, y que te entre en la cabeza: mujer = persona, hombre =
+	persona, Samey = Samey. Ninguno es mejor que el otro, a menos que
+	hablemos de moda claro, lo siento, pero eso se lo dej&eacute; a las mujeres y
+	a algunos hombres que conocen la diferencia entre verde mar y fucsia.</li>
+	<li>Realmente preferir&iacute;a que no tuvieras una conducta que te ofenda a
+	ti mismo, o a tu compa&ntilde;ero amoroso mentalmente maduro y con edad legal
+	para tomar sus propias decisiones. Respecto a cualquier otro que quiera
+	objetar algo, creo que la expresi&oacute;n es &quot;andate a la mierda&quot;, a menos que lo
+	encuentres ofensivo, en cuyo caso pueden apagar el televisor y salir a
+	caminar, para variar.</li>
+	<li>Realmente preferir&iacute;a que no desafiaras las ideas fan&aacute;ticas,
+	mis&oacute;ginas, y de odio de otros con el est&oacute;mago vac&iacute;o. Come, luego ve
+	tras los malditos.</li>
+	<li>Realmente preferir&iacute;a que no construyeras
+	iglesias/templos/mezquitas/santuarios multimillonarios a mi
+	tallarinesca santidad cuando el dinero podr&iacute;a ser mejor gastado en:
+	<ol>
+		<li>Terminar con la pobreza.</li>
+		<li>Curar enfermedades.</li>
+		<li>Vivir en paz, amar con pasi&oacute;n, y bajar el precio de la televisi&oacute;n por cable.</li>
+		<li>Puedo ser un ser omnipresente de carbohidratos complejos, pero disfruto
+		de las cosas sencillas de la vida. Yo lo s&eacute;, para eso SOY el creador.</li>
+	</ol>
+	</li>
+	<li>Realmente preferir&iacute;a que no fueses por ah&iacute; cont&aacute;ndole a la gente
+	que te hablo. No eres tan interesante. Madura ya. Te dije que amaras a
+	tu pr&oacute;jimo, &iquest;no entiendes las indirectas?</li>
+	<li>Realmente preferir&iacute;a que no le hicieses a los otros lo que te
+	gustar&iacute;a que te hiciesen a ti. Si te van las&#8230; eh&#8230; las cosas que
+	usan mucho cuero/lubricante/Las Vegas, si a la otra persona tambi&eacute;n le
+	interesa (conforme a #4), entonces disfr&uacute;talo, saca fotos, y por el
+	amor de Mike &iexcl;usa un PRESERVATIVO! En serio, es un pedazo de goma. Si
+	no hubiera querido que disfrutaras al hacerlo habr&iacute;a a&ntilde;adido p&uacute;as, o
+	algo.</li>
+</ol>
+<p>
+Que todos sean tocados por su ap&eacute;ndice tallarinesco. Ramen!
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[spontaneous para-casual meteorological phonomenon]]></title>
+    <link href="http://oldben.com.ar/blog/2009/08/20/spontaneous-para-casual-meteorological-phonomenon/"/>
+    <updated>2009-08-20T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/08/20/spontaneous-para-casual-meteorological-phonomenon</id>
+    <content type="html"><![CDATA[<blockquote>   <p>That night they stayed Outside the Asylum and watched TV from the inside it.</p>    <p>“This is what I wanted you to see”, said Wonko the Sane when the news came arround again, “an old colleague of mine. He’s over in your country running an investigation. Just watch.”</p>    <p>It was a press conference.</p>    <p>“I’m afraid I can’t comment on the name Rain God at this present time, and we are calling him an example of a Spontaneous Para-Casual Meteorological Phonomenon.”</p>    <p>“Can you tell us what that means?”</p>    <p>“I’m not altogether sure. Let’s be straight here. If we find something we can’t understand we like to call it something you can’t understand, or indeed pronounce. I mean if we just let you go arround calling him a Rain God, then that suggest you know something we don’t, and I’m afraid we couldn’t have that.</p>    <p>“No, first we have to call it something which says it’s ours, not yours, then we set about finding some way of proving it’s not what you say it is.</p>    <p>“And if it turns out that you’re right, you’ll still be wrong, because we simply call him a.. .er, ‘Supernormal’, not paranormal of supernatural because you think you know what those means now, no, a ‘Supernormal Incremental Precipitation Inducer’. We’ll probably want to shove a ‘Quasy’ in there somewhere to protect ourselves. Rain God! Huh, never heard such nonsense in my life. Admittedly, you wouldn’t catch me going on holiday with him. Thanks, that’ll be all for now, other that to say ‘Hi!’ to Wonko if he’s watching.”</p> </blockquote>  <p>Douglas Adams, So Long and Thanks for All the Fish, Chapter 33</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[morning lyrics]]></title>
+    <link href="http://oldben.com.ar/blog/2009/08/01/20090801-morning-lyrics/"/>
+    <updated>2009-08-01T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/08/01/20090801-morning-lyrics</id>
+    <content type="html"><![CDATA[<blockquote>
+	Hello darkness, my old friend<br />
+	I&#39;ve come to talk with you again<br />
+	Because a vision softly creeping<br />
+	Left its seeds while I was sleeping<br />
+	And the vision that was planted in my brain<br />
+	Still remains<br />
+	Within the sound of silence 
+</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[thank the maker!]]></title>
+    <link href="http://oldben.com.ar/blog/2009/07/21/thank-the-maker%21/"/>
+    <updated>2009-07-21T00:00:00-03:00</updated>
+    <id>http://oldben.com.ar/blog/2009/07/21/thank-the-maker!</id>
+    <content type="html"><![CDATA[<div style="text-align: center">
+<img src="http://media.oldben.com.ar/thank-the-maker.jpg" alt="" />
+</div>
+]]></content>
+  </entry>
   
 </feed>

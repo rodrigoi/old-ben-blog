@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Apollo Guidance Computer"
+comments: true
+---
+<p>
+Ayer me puse a apagar servicios en una de mis maquinolas. Le libere unos 500MB de RAM con servicios que, b&aacute;sicamente, no hacen nada. O mejor dicho, nada &uacute;til. Es el precio de la &ldquo;computaci&oacute;n para todos&rdquo;. En los tiempos en los que procesadores de doble n&uacute;cleo en 64bits con 3GB de RAM son la norma, eso mucho no importa.<br />
+<br />
+Pero hubo otra &eacute;poca, en la que los hombres eran hombres y se programaba en Assembler. Mi primer gran programa fue en Assembler para microcontroladores, luchando por acomodar todo el c&oacute;digo en un espacio de 1024 byte compartido entre programa y memoria. Era un tiempo para caballeros.<br />
+<br />
+Antes de la &eacute;poca del ping&uuml;ino, la manzana y la ventana, el ser humano llego a la Luna. Y para hacerlo necesito de computadoras. Las misiones Apollo llevaron, cada una, 2 computadoras AGC (siglas de Apollo Guidance Computer). Una para el modulo de comando, encargada de guiar la misi&oacute;n desde la separaci&oacute;n del cohete Saturno V hasta la reentrada en la atm&oacute;sfera y una para el LM, encargada de las maniobras de aproximaci&oacute;n, alunizaje y despegue.<br />
+<br />
+La AGC es una pieza de equipo muy interesante. Era controlada por un cristal que gira a 2MHz, con una frecuencia de sincronizaci&oacute;n de solo 512 KHz. Fue el primer sistema de los llamados &ldquo;embebidos de tiempo real&rdquo; y cumpli&oacute; su misi&oacute;n solamente con un set de 11 instrucciones y una memoria RAM de n&uacute;cleos de ferrite con una capacidad de almacenamiento de 1024 palabras. Fue uno de los primeros sistemas pr&aacute;cticos en utilizar microprocesadores (unas 5600 compuertas l&oacute;gicas). El dise&ntilde;o es obra del M.I.T.
+</p>
+<div style="text-align: center">
+<img src="http://media.oldben.com.ar/agc.jpg" alt="" />
+</div>
+<p>
+<br />
+La interfase de usuario es realmente sencilla. Los comandos se introduc&iacute;an num&eacute;ricamente y el feedback al usuario era visual por medio de displays de 7 segmentos controlados por reles. Incre&iacute;ble que eso llevo y trajo de vuelta a todas las misiones Apollo.<br />
+<br />
+Dejo un link de c&oacute;mo construir el <a href="http://klabs.org/history/build_agc/">Bloque 1 del AGC</a>. Enjoy!
+</p>
