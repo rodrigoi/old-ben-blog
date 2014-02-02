@@ -34,3 +34,7 @@ THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 #### If you want to be awesome.
 - Proudly display the 'Powered by Octopress' credit in the footer.
 - Add your site to the Wiki so we can watch the community grow.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rodrigoi/old-ben-blog/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
